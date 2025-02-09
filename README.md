@@ -1,12 +1,12 @@
-Employee Management System 🏢
+# Employee Management System 🏢
 A simple Employee Management System built with Python and Tkinter for managing employee records efficiently.
 
-Features 🚀
+# Features 🚀
 Add Employees: Enter and store employee details such as ID, name, department, and position.
 Search Employees: Find employees by ID or name.
 Generate Reports: View a report of all stored employees.
 User-Friendly GUI: Built using Tkinter for an interactive and intuitive experience.
-Installation 📥
+# Installation 📥
 Clone the repository:
 bash
 Copy
@@ -23,14 +23,14 @@ bash
 Copy
 Edit
 python main.py
-Usage 🛠️
+# Usage 🛠️
 Enter employee details and click "Add Employee" to store the information.
 Use the Search by ID or Search by Name feature to locate employees.
 Click "Generate Report" to see a list of all employees.
-Technologies Used 💻
+# Technologies Used 💻
 Python 🐍
 Tkinter (for GUI)
-Screenshots 📸
+# Screenshots 📸
 Add some screenshots of the application running.
 
 Contributing 🤝
